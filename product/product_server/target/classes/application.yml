@@ -1,0 +1,16 @@
+eureka:
+  client:
+    service-url:
+     defaultZone: http://127.0.0.1:8761/eureka/
+#  instance:
+#    hostname: productHost
+spring:
+  application:
+    name: PRODUCT
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 361116
+    url: jdbc:mysql://192.168.237.137:3306/order?characterEncoding=utf-8&useSSL=false
+  jpa:
+    show-sql: true
