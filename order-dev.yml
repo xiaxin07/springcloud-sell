@@ -6,5 +6,5 @@ spring:
     password: 361116
 env: prd
 girl:
-  name: CYS
+  name: ChenYiShan
   age: 20
