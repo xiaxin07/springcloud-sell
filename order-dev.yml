@@ -6,5 +6,5 @@ spring:
     password: 361116
 env: prd
 girl:
-  name: CYS CXQ
-  age: 20 25 26
+  name: CYS
+  age: 20
